@@ -1,2 +1,6 @@
 # hello-world
-not much
+# not much
+int main()
+{
+   cout<<"x";
+}
